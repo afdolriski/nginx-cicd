@@ -2,6 +2,7 @@
 
 ## Prerequisites
 - An instance should be already available with docker installed
+- The image running with name `container`
 - Create github secrets that will be required in github actions
   - DOCKER_PASSWORD
   - DOCKER_USERNAME
